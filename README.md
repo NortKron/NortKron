@@ -22,19 +22,13 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-nortkron)
 
-Карточка профиля: 
+Карточка профиля: <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nortkron&theme=solarized_dark)
 
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nortkron&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nortkron&theme=solarized_dark)<br>
 
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nortkron&theme=solarized_dark)
-
-Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nortkron&theme=solarized_dark)
-
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nortkron&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nortkron&theme=solarized_dark)<br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
