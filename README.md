@@ -8,20 +8,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nortkron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nortkron)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-Большой (large):  
 [![codewars](https://www.codewars.com/users/NortKron/badges/large)](https://www.codewars.com/users/NortKron)
-
-Маленький (small):  
-[![codewars](https://www.codewars.com/users/NortKron/badges/small)](https://www.codewars.com/users/NortKron) 
-
-Крошечный (micro):  
-[![codewars](https://www.codewars.com/users/NortKron/badges/micro)](https://www.codewars.com/users/NortKron) 
-
 ![](https://komarev.com/ghpvc/?username=your-github-nortkron)
 
-Карточка профиля: <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nortkron&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nortkron&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nortkron&theme=solarized_dark)<br>
 
