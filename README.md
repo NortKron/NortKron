@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alexey
 - 👀 I’m software software engineer and backend-developer
 - 💞️ I’m looking to collaborate on projects with .NET, C#, Python, Java
+- Skills: Docker, RabbitMQ, gRPC, Git, backend, SQL, OOP, Jira, Agile, MS SQL Server, PostgrSQL, Unity, Unreal Engine
 
 [![codewars](https://www.codewars.com/users/NortKron/badges/large)](https://www.codewars.com/users/NortKron)
 ![](https://komarev.com/ghpvc/?username=your-github-nortkron)
